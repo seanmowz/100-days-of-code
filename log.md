@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log - Round 1 - Sean Mowrey
 
 Started on April 26, Thursday, 2018.
-### Day 0: April 26, 2018 
+### Day 0: May 9, 2018 
 **Today's Progress**: Spent time working on AJAX JSON calls on FCC and random qoute generator. 
+
+### Day 1: May 10, 2018 
+**Today's Progress**: Worked on React components. 
+
+### Day 2: May 11, 2018 
+**Today's Progress**: Started portfolio site. 
+
+### Day 3: May 12, 2018 
+**Today's Progress**: Worked on portfolio site aswell as react lesson on FCC. 
+
+### Day 4: May 14, 2018 
+**Today's Progress**: Did assignment in c++ as well as portfolio site work. 
 
