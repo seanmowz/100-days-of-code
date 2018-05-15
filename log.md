@@ -13,6 +13,8 @@ Started on April 26, Thursday, 2018.
 ### Day 3: May 12, 2018 
 **Today's Progress**: Worked on portfolio site aswell as react lesson on FCC. 
 
-### Day 4: May 14, 2018 
+### Day 4: May 13, 2018 
 **Today's Progress**: Did assignment in c++ as well as portfolio site work. 
 
+### Day 5: May 14, 2018 
+**Today's Progress**: Work on personal portfolio site and AJAX weather update. 
