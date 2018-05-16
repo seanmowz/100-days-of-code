@@ -18,3 +18,6 @@ Started on April 26, Thursday, 2018.
 
 ### Day 5: May 14, 2018 
 **Today's Progress**: Work on personal portfolio site and AJAX weather update. 
+
+### Day 6: May 16, 2018 
+**Today's Progress**: Work on gatsbyJS tutorials and AJAX weather app 
