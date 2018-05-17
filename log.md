@@ -25,5 +25,5 @@ Started on April 26, Thursday, 2018.
 ### Day 7: May 16, 2018 
 **Today's Progress**: Created c++ program to average out formula razer time from a file. Worked on portfolio.
 
-### Day 6: May 15, 2018 
+### Day 8 May 17, 2018 
 **Today's Progress**: Work on gatsbyJS tutorials and continued learning react. 
