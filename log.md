@@ -27,3 +27,13 @@ Started on April 26, Thursday, 2018.
 
 ### Day 8 May 17, 2018 
 **Today's Progress**: Work on gatsbyJS tutorials and continued learning react. 
+
+### Day 9 May 18, 2018 
+**Today's Progress**: Finsihed temporoary portfolio site while new one is in development.
+
+### Day 10 May 19, 2018 
+**Today's Progress**: Continue building react-native messaging app.
+
+### Day 11 May 20, 2018 
+**Today's Progress**: Update existing flappy bird clone continue with chat app.
+
