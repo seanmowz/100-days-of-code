@@ -37,3 +37,11 @@ Started on April 26, Thursday, 2018.
 ### Day 11 May 20, 2018 
 **Today's Progress**: Update existing flappy bird clone continue with chat app.
 
+### Day 12 May 21, 2018 
+**Today's Progress**: Go through redux problem. C++ Assignment
+
+### Day 13 May 22, 2018 
+**Today's Progress**: Work on new portfolio site
+
+
+
