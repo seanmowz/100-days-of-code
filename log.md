@@ -43,5 +43,13 @@ Started on April 26, Thursday, 2018.
 ### Day 13 May 22, 2018 
 **Today's Progress**: Work on new portfolio site
 
+### Day 14 May 23, 2018 
+**Today's Progress**: Continued working on portfolio site and flappy dog.
 
+### Day 15 May 24, 2018 
+**Today's Progress**: RobotC assignments and c++ file io formating
+
+
+### Day 16 May 24, 2018 
+**Today's Progress**: Finishing off Flappy dog for now
 
