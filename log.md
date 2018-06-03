@@ -49,7 +49,24 @@ Started on April 26, Thursday, 2018.
 ### Day 15 May 24, 2018 
 **Today's Progress**: RobotC assignments and c++ file io formating
 
-
-### Day 16 May 24, 2018 
+### Day 16 May 25, 2018 
 **Today's Progress**: Finishing off Flappy dog for now
+
+### Day 17 May 26, 2018 
+**Today's Progress**: FreeCodeCamp Algorithms challenges
+
+### Day 18 May 27, 2018 
+**Today's Progress**: FreeCodeCamp Algorithms challenges
+
+### Day 19 May 28, 2018 
+**Today's Progress**: RobotC goose tracker robot
+
+### Day 20 May 29, 2018 
+**Today's Progress**: RobotC goose tracker robot 
+
+### Day 21 May 30, 2018 
+**Today's Progress**: FreeCodeCamp algorithms challenges roman Numeral
+
+### Day 22 May 31, 2018 
+**Today's Progress**: Work on portfolio
 
